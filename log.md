@@ -1,6 +1,30 @@
 # 100 Days Of Code - Log
 
+### Day 1: September 26, 2017
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+**Link(s) to work**: 
+
+
+
 <!---
+### Day 0: February 30, 2016 (Example 2)
+##### (delete me or comment me out)
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+**Link(s) to work**: 
+
+
+
+
+
+
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
