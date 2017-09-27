@@ -2,11 +2,12 @@
 
 ### Day 1: September 26, 2017
 
-**Today's Progress**: 
+**Today's Progress**: I went through the beta freecode camp curriculum since it was turned on to me by a peer at a local meetup, I had gone through most of the freecodecamp normal front end curriculum a few weeks ago so I appreciated the refreshed with some added content. After I did one pomodoro on that I focused the remaining time before bed on the Tribute Page project which I have been putting off. I had already populated it with text before, but decided to sit down and experiment with styling and I'm decently happy with the results after not a whole lot of work.
 
-**Thoughts**:
+**Thoughts**: I learned a few things, mostly how to better manipulate background images to behave in a more modern fashion (and not have horrible tiling), but I probably need to revisit the project for mobile compatibility in the future. Mostly I need to work on my design skills, I did not find myself particularly challenged by the CSS configuration for this project, but more by my own lack of skill in coming up with an attractive page design. 
 
-**Link(s) to work**: 
+**Link(s) to work**: [FCC Project: Tribute Page](https://codepen.io/Paradisio/pen/PJqbdo)
+
 
 
 
