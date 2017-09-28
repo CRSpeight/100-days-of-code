@@ -8,18 +8,25 @@
 
 **Link(s) to work**: [FCC Project: Tribute Page](https://codepen.io/Paradisio/pen/PJqbdo)
 
+### Day 2: September 27, 2017
 
+**Today's Progress**: Blasted through the beta FCC tutorials on CSS and got a good portion into Applied Visual Design. Slowed down a bit there as that was all new content, but oddly more stuff that I tackled when I was younger. After collecting some feedback, I modified my tribute page to be more mobile friendly using bootstrap columns. After that I started working on the portfolio, mostly experimenting using bootstrap framework.
+
+**Thoughts**: Still struggling with making things attractive at this stage more than the actual hurdles of CSS, my brain just doesn't seem to be particularly creative about webpage design/layout, still looking for ideas/inspiration.
+
+**Link(s) to work**: 
+[FCC Project: Tribute Page](https://codepen.io/Paradisio/pen/PJqbdo)
+[FCC Project: Portfolio](https://codepen.io/Paradisio/pen/XeRNNg)
 
 
 <!---
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 1: September 26, 2017
 
 **Today's Progress**: 
 
-**Thoughts**:
+**Thoughts**: 
 
-**Link(s) to work**: 
+**Link(s) to work**: [FCC Project: Tribute Page](https://codepen.io/Paradisio/pen/PJqbdo)
 
 
 
