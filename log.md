@@ -18,6 +18,14 @@
 [FCC Project: Tribute Page](https://codepen.io/Paradisio/pen/PJqbdo)
 [FCC Project: Portfolio](https://codepen.io/Paradisio/pen/XeRNNg)
 
+### Day 3: September 28, 2017
+
+**Today's Progress**: Worked through more of the FCC beta page on Applied visual design and then worked on portfolio a bit, time was very slim today due to working a 15 hour day at the normal job.
+
+**Thoughts**: Just trying to keep up the habit today even when my normal job is rough!
+
+**Link(s) to work**: [FCC Project: Portfolio](https://codepen.io/Paradisio/pen/XeRNNg)
+
 
 <!---
 ### Day 1: September 26, 2017
