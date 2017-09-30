@@ -26,6 +26,14 @@
 
 **Link(s) to work**: [FCC Project: Portfolio](https://codepen.io/Paradisio/pen/XeRNNg)
 
+### Day 4: September 29, 2017
+
+**Today's Progress**: Concentrated on portfolio project. 
+
+**Thoughts**: Red eye work days are really adding up on me, trying to keep this habit going though no matter what. 
+
+**Link(s) to work**: [FCC Project: Portfolio](https://codepen.io/Paradisio/pen/XeRNNg)
+
 
 <!---
 ### Day 1: September 26, 2017
