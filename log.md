@@ -34,6 +34,14 @@
 
 **Link(s) to work**: [FCC Project: Portfolio](https://codepen.io/Paradisio/pen/XeRNNg)
 
+### Day 5: October 1st, 2017
+
+**Today's Progress**: Worked on learning bootstrap nav bars and trying to implement them in my portfolio project!
+
+**Thoughts**: Unfortunately missed yesterday and got pretty down on myself, but I looked over the rules and it pretty much said I could miss one day (but not two in a row) as long as I make up for it, which is why I'm still considering this day 5, instead of 6!
+
+**Link(s) to work**: [FCC Project: Portfolio](https://codepen.io/Paradisio/pen/XeRNNg)
+
 
 <!---
 ### Day 1: September 26, 2017
