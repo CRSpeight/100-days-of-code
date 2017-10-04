@@ -42,6 +42,14 @@
 
 **Link(s) to work**: [FCC Project: Portfolio](https://codepen.io/Paradisio/pen/XeRNNg)
 
+### Day 6: October 3rd, 2017
+
+**Today's Progress**: More tinkering with bootstrap navbar options, worked on an implementation of a floating nav-bar with anchors to page sections. Having various issues due to padding issues on the top of the page at different screen sizes though and I'm being stubborn about it!
+
+**Thoughts**: Missed yesterday due to hospital stay (i'm fine though, was for a test). Feeling good though, trying to stay motivated until I establish the habit!
+
+**Link(s) to work**: [FCC Project: Portfolio](https://codepen.io/Paradisio/pen/XeRNNg)
+
 
 <!---
 ### Day 1: September 26, 2017
