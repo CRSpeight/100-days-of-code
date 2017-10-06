@@ -50,6 +50,14 @@
 
 **Link(s) to work**: [FCC Project: Portfolio](https://codepen.io/Paradisio/pen/XeRNNg)
 
+### Day 7: October 5th, 2017
+
+**Today's Progress**: Worked on powershell scripts! Trying out a side project to see if something is doable for work (automated creation of user accounts across multiple e-mail services). Having some issue with some parts of our network not being available from every physical location. 
+
+**Thoughts**: Missed another day yesterday, decided going forward I'm not going to really note it unless I feel like there is a reason. Life is just so busy, and even if I'm doing this every other day, I feel like I'm making progress. On that note, next week I'll be in portland at a conference... so it'll be interesting to see how I get this done!
+
+**Link(s) to work**: Not included as it has some private daily job information.
+
 
 <!---
 ### Day 1: September 26, 2017
