@@ -58,6 +58,13 @@
 
 **Link(s) to work**: Not included as it has some private daily job information.
 
+### Day 8: October 7th, 2017
+
+**Today's Progress**: Did some various challenges online today to keep myself sharp, mostly the reddit learnprogramming ones. 
+
+**Thoughts**: Think one of the reasons I'm being unmotivated currently is the relatively simple nature of the portfolio project, right now I seem to enjoy the javascript portions much more than the CSS/design ones. Thinking about jumping over to the API projects and then work on the portfolio intermittenlty. 
+
+
 
 <!---
 ### Day 1: September 26, 2017
