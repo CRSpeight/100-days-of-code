@@ -64,7 +64,11 @@
 
 **Thoughts**: Think one of the reasons I'm being unmotivated currently is the relatively simple nature of the portfolio project, right now I seem to enjoy the javascript portions much more than the CSS/design ones. Thinking about jumping over to the API projects and then work on the portfolio intermittenlty. 
 
+### Day 1: February 21st, 2018
 
+**Today's Progress**: Did 100 of the FCC lessons to refresh my skills.  
+
+**Thoughts**: Rekindled my love of coding, had a rough spell lately but decided to get back on the horse and refocus my personal time on improving myself and my life. I went to a FCC meetup on Monday (even dragged a friend), recreated my account and decided to go through lessons to get rid of some of the rust on my skills. Excited to get back on this challenge! Implementing pomodoro technique again which is really helping my focus!
 
 <!---
 ### Day 1: September 26, 2017
