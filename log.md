@@ -70,6 +70,12 @@
 
 **Thoughts**: Rekindled my love of coding, had a rough spell lately but decided to get back on the horse and refocus my personal time on improving myself and my life. I went to a FCC meetup on Monday (even dragged a friend), recreated my account and decided to go through lessons to get rid of some of the rust on my skills. Excited to get back on this challenge! Implementing pomodoro technique again which is really helping my focus!
 
+### Day 2: February 22nd, 2018
+
+**Today's Progress**: Did quite a few more FCC lessons.
+
+**Thoughts**: Already feeling back in the swing of things today again, almost back to the challenge portion of FreeCodeCamp. Didn't make as much progress as expected as FreeCodeCamps site was having some various issues and kept going down. Anniversary with the GF this weekend so may miss a day but packing my laptop this weekend in case I find some time!
+
 <!---
 ### Day 1: September 26, 2017
 
