@@ -76,6 +76,12 @@
 
 **Thoughts**: Already feeling back in the swing of things today again, almost back to the challenge portion of FreeCodeCamp. Didn't make as much progress as expected as FreeCodeCamps site was having some various issues and kept going down. Anniversary with the GF this weekend so may miss a day but packing my laptop this weekend in case I find some time!
 
+### Day 3: February 24th, 2018
+
+**Today's Progress**: Wrapping up the FCC front end lessons, completed #200 today!
+
+**Thoughts**: Missed yesterday due to anniversary, don't feel too guilty as I literally had no spare time between work and celebrations. Back on the horse today and should get some more time in tomorrow. I'm glad things are coming back to me more and more... I thought I was going to feel like I had to totally start over! On to projects and challenges now!
+
 <!---
 ### Day 1: September 26, 2017
 
