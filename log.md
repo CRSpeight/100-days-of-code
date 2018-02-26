@@ -82,6 +82,13 @@
 
 **Thoughts**: Missed yesterday due to anniversary, don't feel too guilty as I literally had no spare time between work and celebrations. Back on the horse today and should get some more time in tomorrow. I'm glad things are coming back to me more and more... I thought I was going to feel like I had to totally start over! On to projects and challenges now!
 
+### Day 4: February 25th, 2018
+
+**Today's Progress**: Completed the freeCodeCamp jQuery, Javascript and Object oriented front end sections as well as a few challenges. Only lessons I have left at this point are the JSON portions, on my own from now on! 
+
+**Thoughts**: Reall hoping I can get over this hump where I have stalled out in the past when I reached the project portions. Oddly, I don't think my issue is the coding portion of these projects, it's the visual portion... I don't feel like a very confident or competent graphic designer on my own. 
+
+
 <!---
 ### Day 1: September 26, 2017
 
