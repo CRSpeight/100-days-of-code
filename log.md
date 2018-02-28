@@ -86,8 +86,19 @@
 
 **Today's Progress**: Completed the freeCodeCamp jQuery, Javascript and Object oriented front end sections as well as a few challenges. Only lessons I have left at this point are the JSON portions, on my own from now on! 
 
-**Thoughts**: Reall hoping I can get over this hump where I have stalled out in the past when I reached the project portions. Oddly, I don't think my issue is the coding portion of these projects, it's the visual portion... I don't feel like a very confident or competent graphic designer on my own. 
+**Thoughts**: Really hoping I can get over this hump where I have stalled out in the past when I reached the project portions. Oddly, I don't think my issue is the coding portion of these projects, it's the visual portion... I don't feel like a very confident or competent graphic designer on my own. 
 
+### Day 5: February 26th, 2018
+
+**Today's Progress**: Completed 10 of the algorithm scripting challenges on freecodecamp.
+
+**Thoughts**: Brain is sufficiently meltyed Only issues I really had were struggling with regex entries and global argument passing into nested functions (which doesn't work, but knowledge is power!).
+
+### Day 6: February 27th, 2018
+
+**Today's Progress**:  Got the basic algorithms done, along with the JSON APIs/AJax and all the video challenges done on freecodecamp.
+
+**Thoughts**: Now I'm onto the hard part of FreeCodeCamp, all the lessons are done unless they release the beta soon, so from here on out it's mostly on me with no more hand holding. Debating on doing an online course to round out my knowledge. Also will be on vacation a bit next week so trying to find some resources to take with me as I will have limited time to actually code on my computer for a few days. 
 
 <!---
 ### Day 1: September 26, 2017
