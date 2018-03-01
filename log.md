@@ -100,6 +100,12 @@
 
 **Thoughts**: Now I'm onto the hard part of FreeCodeCamp, all the lessons are done unless they release the beta soon, so from here on out it's mostly on me with no more hand holding. Debating on doing an online course to round out my knowledge. Also will be on vacation a bit next week so trying to find some resources to take with me as I will have limited time to actually code on my computer for a few days. 
 
+### Day 7: February 28th, 2018
+
+**Today's Progress**:  Got first intermediate algorithm done on freecodecamp.
+
+**Thoughts**: Day was very hard and long due to work. I'm only on a handful of hours to sleep and 16+ hours of work, but I squeezed some time in... and now I rest.
+
 <!---
 ### Day 1: September 26, 2017
 
