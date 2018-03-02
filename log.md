@@ -112,6 +112,12 @@
 
 **Thoughts**: Another long day, took a bit of a much needed break from work to get some sleep, didn't have a whole lot of extra coding time unfortunately. Hoping this weekend provides a much needed respite so I can do some more challenges. 
 
+### Day 9: March 2nd, 2018
+
+**Today's Progress**:  Pivoted a bit today now that I'm in the freecodecamp section of projects to do some project oriented training. Went through the first portion of Watch And Code, bit of a refresher so far but hoping after all the good things I heard. 
+
+**Thoughts**: Realized I stopped before day 9 last time, yay overcoming hurdles! Hoping I can go MUCH further this time, trying to stay pumped!
+
 <!---
 ### Day 1: September 26, 2017
 
