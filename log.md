@@ -106,6 +106,12 @@
 
 **Thoughts**: Day was very hard and long due to work. I'm only on a handful of hours to sleep and 16+ hours of work, but I squeezed some time in... and now I rest.
 
+### Day 8: March 1st, 2018
+
+**Today's Progress**:  Got second intermediate algorithm done on freecodecamp.
+
+**Thoughts**: Another long day, took a bit of a much needed break from work to get some sleep, didn't have a whole lot of extra coding time unfortunately. Hoping this weekend provides a much needed respite so I can do some more challenges. 
+
 <!---
 ### Day 1: September 26, 2017
 
