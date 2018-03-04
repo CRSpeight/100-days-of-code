@@ -118,6 +118,12 @@
 
 **Thoughts**: Realized I stopped before day 9 last time, yay overcoming hurdles! Hoping I can go MUCH further this time, trying to stay pumped!
 
+### Day 10: March 3rd, 2018
+
+**Today's Progress**:  Got up to version 3 of the coursework on Watch and Code. Worked on various intermediate FreeCodeCamp algorithm challenges. 
+
+**Thoughts**: Still enjoying watch and code! Hoping to get to some newer knowledge in the next section which focuses more on objects.
+
 <!---
 ### Day 1: September 26, 2017
 
