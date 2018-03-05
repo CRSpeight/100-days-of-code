@@ -124,6 +124,12 @@
 
 **Thoughts**: Still enjoying watch and code! Hoping to get to some newer knowledge in the next section which focuses more on objects.
 
+### Day 11: March 4th, 2018
+
+**Today's Progress**:  Did versions 3-4 of Watch and Code.
+
+**Thoughts**: Glad I decided to start doing Watch and Code, been a great resource so far, while it has been a good rehash of a lot of subjects the portions on objects and methods so far have made me feel much more confident. I'm going to take Watch and Code up on their suggestion and focus on that course until it is completed, but I still have a Free Code Camp meeting tomorrow I'm going to (locally), and I'm bringing a friend again! Hoping at the very least I can keep learning and networking. 
+
 <!---
 ### Day 1: September 26, 2017
 
