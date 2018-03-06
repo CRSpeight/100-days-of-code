@@ -130,6 +130,12 @@
 
 **Thoughts**: Glad I decided to start doing Watch and Code, been a great resource so far, while it has been a good rehash of a lot of subjects the portions on objects and methods so far have made me feel much more confident. I'm going to take Watch and Code up on their suggestion and focus on that course until it is completed, but I still have a Free Code Camp meeting tomorrow I'm going to (locally), and I'm bringing a friend again! Hoping at the very least I can keep learning and networking. 
 
+### Day 12: March 5th, 2018
+
+**Today's Progress**:  Completed one more intermediate algorithm at FreeCodeCamp and completed version 5 of Watch and Code
+
+**Thoughts**: Went to FreeCodeCamp meetup tonight with a friend, even though I didn't socialize much it was good to see other people and where they are on the journey. Going with a friend has also kept me motivated to keep going, as well, it puts some perspective on things when I'm helping someone else. Almost half complete at Watch and Code as well!
+
 <!---
 ### Day 1: September 26, 2017
 
