@@ -136,6 +136,13 @@
 
 **Thoughts**: Went to FreeCodeCamp meetup tonight with a friend, even though I didn't socialize much it was good to see other people and where they are on the journey. Going with a friend has also kept me motivated to keep going, as well, it puts some perspective on things when I'm helping someone else. Almost half complete at Watch and Code as well!
 
+
+### Day 13: March 6th, 2018
+
+**Today's Progress**:  Over 50% done with watch and code!
+
+**Thoughts**: Been a real busy week but I've been keeping up! I will be out of town for the next few days, may be Sunday or Monday before I have enough time at a computer... I'm not going to count me as having failed the challenge though, I'm not sure if purists would disagree but I'm only going to consider it a fail if I have time but I don't make it.
+
 <!---
 ### Day 1: September 26, 2017
 
