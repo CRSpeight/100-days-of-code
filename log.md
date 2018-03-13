@@ -143,6 +143,12 @@
 
 **Thoughts**: Been a real busy week but I've been keeping up! I will be out of town for the next few days, may be Sunday or Monday before I have enough time at a computer... I'm not going to count me as having failed the challenge though, I'm not sure if purists would disagree but I'm only going to consider it a fail if I have time but I don't make it.
 
+### Day 14: March 12th, 2018
+
+**Today's Progress**:  Got three intermediate challenges done on FreeCodeCamp! 
+
+**Thoughts**: Back from my vacation today, feeling pretty out of it still from all the driving but I'm glad to be back at coding. I decided to pivot back to doing some FreeCodeCamp challenges and somehow was feeling much better equipped after the Watch and Code stuff, even though I took a break for a few days. I don't feel better at the syntax or anything, but I feel like my ability to break down the problems is much better.
+
 <!---
 ### Day 1: September 26, 2017
 
