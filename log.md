@@ -149,7 +149,7 @@
 
 **Thoughts**: Back from my vacation today, feeling pretty out of it still from all the driving but I'm glad to be back at coding. I decided to pivot back to doing some FreeCodeCamp challenges and somehow was feeling much better equipped after the Watch and Code stuff, even though I took a break for a few days. I don't feel better at the syntax or anything, but I feel like my ability to break down the problems is much better.
 
-### Day 15: March 12th, 2018
+### Day 15: March 13th, 2018
 
 **Today's Progress**:  Got two more intermediate algorithms done on FreeCodeCamp.
 
