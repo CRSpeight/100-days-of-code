@@ -155,6 +155,12 @@
 
 **Thoughts**: Didn't quite get where I wanted tonight, approaching the half way mark with the intermediate challenges... sadly think I'v done all the 'easy' ones now, going to be a bit of a battle getting through the rest.
 
+### Day 16: March 4th, 2018
+
+**Today's Progress**:  Got three more intermediate algorithms done on FreeCodeCamp.
+
+**Thoughts**: Really banging my head into the remainder of these challenges, going to spend some time doing a course on Udemy after this (Colt Steele Web Developer bootcamp) for a bit of a change of pace. Thankfully have a pretty clear weekend for once so hoping I can get some good long study sessions in. 
+
 <!---
 ### Day 1: September 26, 2017
 
