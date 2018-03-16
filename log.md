@@ -167,6 +167,12 @@
 
 **Thoughts**: Feeling a bit frustrated at my lack of progress tonight, not sure if I should push through them and grind out these challenges or work on my knowledge level, but I've also had a very long day and week. 
 
+### Day 18: March 16th, 2018
+
+**Today's Progress**:  Managed to finish up 4 more intermediate freecodecamp challenges.
+
+**Thoughts**: Feeling much better today, I did have to get a hint for one of them but the first hint was sufficient to get me on the right track. Of the 4-5 I have left I'm only really having trouble understanding one that pass multiple arguments in when calling the function in this weird format functionToCall(a)(b)... and not sure how to deal with this programmatically or even search for the right answer. Still early in the day though so may do some more. 
+
 <!---
 ### Day 1: September 26, 2017
 
