@@ -173,6 +173,12 @@
 
 **Thoughts**: Feeling much better today, I did have to get a hint for one of them but the first hint was sufficient to get me on the right track. Of the 4-5 I have left I'm only really having trouble understanding one that pass multiple arguments in when calling the function in this weird format functionToCall(a)(b)... and not sure how to deal with this programmatically or even search for the right answer. Still early in the day though so may do some more. 
 
+### Day 19: March 17th, 2018
+
+**Today's Progress**:  One more freecodecamp challenge down, 4 left!
+
+**Thoughts**: Doing my best to focus on these challenges and not get frustrated or cheat by searching too much, I know the answers are frequently easier than I think. 
+
 <!---
 ### Day 1: September 26, 2017
 
