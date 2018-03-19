@@ -179,6 +179,12 @@
 
 **Thoughts**: Doing my best to focus on these challenges and not get frustrated or cheat by searching too much, I know the answers are frequently easier than I think. 
 
+### Day 20: March 18th, 2018
+
+**Today's Progress**:  FINALLY got that pig latin challenge done on FCC.
+
+**Thoughts**: Finally slammed my face into that pig latin challenge for two hours tonight until I decided to ditch my original attempts and swap it over. Decided to include different arrays of vowels and consonant letters, which worked well for most conditions until I got to 'glove' and kept getting hung up on how to grab the first two letters but not the V consonant too, decided to invert my loop structure which worked much better. Have a local meetup tomorrow but hoping I can get these last challenges wrapped up tomorrow or the day after. Also subscribed to Team Treehouse to try out their training videos for a bit since I heard good things.
+
 <!---
 ### Day 1: September 26, 2017
 
