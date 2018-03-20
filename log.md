@@ -185,6 +185,12 @@
 
 **Thoughts**: Finally slammed my face into that pig latin challenge for two hours tonight until I decided to ditch my original attempts and swap it over. Decided to include different arrays of vowels and consonant letters, which worked well for most conditions until I got to 'glove' and kept getting hung up on how to grab the first two letters but not the V consonant too, decided to invert my loop structure which worked much better. Have a local meetup tomorrow but hoping I can get these last challenges wrapped up tomorrow or the day after. Also subscribed to Team Treehouse to try out their training videos for a bit since I heard good things.
 
+### Day 21: March 19th, 2018
+
+**Today's Progress**:  Yesss finished the intermediate coding challenges on FCC!
+
+**Thoughts**: Productive day at work today, worked on programming during my lunch break and an hour after work and then went to the local FCC meetup where I got the rest of the intermediate coding challenges done. Right now I'm trying to decide if I want to proceed with the advanced challenges or take a break to focus on the project portion. 
+
 <!---
 ### Day 1: September 26, 2017
 
