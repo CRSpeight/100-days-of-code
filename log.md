@@ -191,6 +191,14 @@
 
 **Thoughts**: Productive day at work today, worked on programming during my lunch break and an hour after work and then went to the local FCC meetup where I got the rest of the intermediate coding challenges done. Right now I'm trying to decide if I want to proceed with the advanced challenges or take a break to focus on the project portion. 
 
+### Day 22: March 20th, 2018
+
+**Today's Progress**:  Got first project linked back up and did some tutorials.
+
+**Thoughts**: Diverging into the projects section, revisited the portfolio project I did before and linked it up to my FCC account since I felt a bit rusty on the HTML/CSS portion. I'm going to focus a fair bit on the portfolio project, still having issues with the navigation bar at the top though.
+
+**Link(s) to work**: [FCC Project: Tribute Page](https://codepen.io/Paradisio/pen/PJqbdo)
+
 <!---
 ### Day 1: September 26, 2017
 
