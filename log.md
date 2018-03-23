@@ -199,6 +199,12 @@
 
 **Link(s) to work**: [FCC Project: Tribute Page](https://codepen.io/Paradisio/pen/PJqbdo)
 
+### Day 23: March 22nd, 2018
+
+**Today's Progress**:  Reviewed some of my older projects, mostly worked on Team Treehouse courses to help me on the advanced algorithms hopefully. 
+
+**Thoughts**: Pretty jarred yesterday still so not up to 100%, skipped yesterday due to an emergency with my cat that took most of my day and all my energy so had to take a mental health day. Hoping I'll be back to myself soon after some more rest.
+
 <!---
 ### Day 1: September 26, 2017
 
