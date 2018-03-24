@@ -205,6 +205,12 @@
 
 **Thoughts**: Pretty jarred yesterday still so not up to 100%, skipped yesterday due to an emergency with my cat that took most of my day and all my energy so had to take a mental health day. Hoping I'll be back to myself soon after some more rest.
 
+### Day 24: March 23rd, 2018
+
+**Today's Progress**:  Managed to get about 75% done with the Loop, Array and Object course on Team Treehouse!
+
+**Thoughts**: Feeling a bit better today, but wishing I didn't have to work this weekend so I could chill and code more. On the upside, finishing a project I have been on for three years!
+
 <!---
 ### Day 1: September 26, 2017
 
